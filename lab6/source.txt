@@ -1,0 +1,7 @@
+Python is a high-level, interpreted programming language renowned for its simplicity and
+versatility. Developed in the late 1980s by Guido van Rossum, Python has become a
+favorite among developers due to its easy-to-learn syntax and extensive libraries. It
+supports multiple programming paradigms, including procedural, object-oriented, and
+functional programming.
+
+
